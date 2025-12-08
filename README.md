@@ -11,9 +11,9 @@ My journey started with curiosity about how games work internally, which led me 
 
 ```
 🎯 Current Focus: Game reverse engineering & security research
-🔧 Working On: Custom game mods, Arduino projects, and security tools
+🔧 Working On: Custom game mods, DIY Esp32 Hacking Tool
 📚 Learning: Advanced exploit development & hardware hacking
-🤝 Open To: Collaborating on ethical hacking projects
+🤝 Open To: Everything
 ```
 
 ## 🛠️ Skills & Technologies
