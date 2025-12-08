@@ -26,10 +26,10 @@
 
 <p></p>
 
-## 🎮 About Me
+## 👋Hi There, I'm 0Xploit
 
 <p align="justify">
-Hey! I'm a 17-year-old passionate about game hacking, software development, electronics, and ethical hacking. I love exploring how things work under the hood—whether it's reverse engineering games, building hardware projects with Arduino, or diving deep into security vulnerabilities. I'm constantly learning new techniques and pushing the boundaries of what's possible with code and electronics.
+Hey! I'm a 17-year-old passionate about game hacking, software development, electronics, and ethical hacking. I love exploring how things work-whether it's reverse engineering, building hardware projects with Arduino / Esp32, or diving deep into security vulnerabilities. I'm constantly learning new techniques and pushing the boundaries of what's possible with code and electronics.
 </p>
 
 <p align="justify">
