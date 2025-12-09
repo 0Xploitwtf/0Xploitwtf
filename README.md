@@ -14,7 +14,7 @@
 
 ---
 
-## 🔭 I'm currently working on
+## I'm currently working on
 - A Diy Flipper Zero  
 - A Fud Dll injector with shellcode dump, thread hijack v1 and v2  
 - A Cs2 Injector that fully bypasses Vac  
@@ -22,19 +22,14 @@
 
 ---
 
-## 🌱 I'm currently learning
+## I'm currently learning
 - Pattern scanning  
 - Assembly  
-- Traffic replay concepts  
+- Traffic replay concepts
 
 ---
 
-## 👯 I'm looking to collaborate on
-**Projects**
-
----
-
-## 📫 How to reach me
+## How to reach me
 **Discord: zero.exploit**
 
 ---
