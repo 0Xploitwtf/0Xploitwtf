@@ -8,7 +8,7 @@
 
 <br>
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
+<h2> My GitHub Stats </h2>
 
 ![Metrics](https://metrics.lecoq.io/0Xploitwtf?template=terminal&base.activity=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FZurich&config.twemoji=true)
 
