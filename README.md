@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm 0Xploit</h1>
 
 <p align="center">
-  <em>17-year-old passionate about game hacking, software development, electronics, and ethical hacking.</em>
+  <em>15-year-old passionate about game hacking, software development, electronics, and ethical hacking.</em>
 </p>
 
 <br>
